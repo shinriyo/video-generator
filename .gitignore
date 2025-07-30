@@ -1,0 +1,6 @@
+# ビルド生成物
+clips/
+all.mp4
+*.tmp.mp4
+# OS ゴミ
+.DS_Store
